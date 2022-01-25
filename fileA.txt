@@ -1,2 +1,1 @@
-alex has a dog
-
+This is a content of file A
